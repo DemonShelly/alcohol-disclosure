@@ -1,14 +1,14 @@
 # Alcohol-Disclosure／酒4要公開
 
-Demo
----
+## Demo
+
 https://shellywu.000webhostapp.com/alcohol_open/board.php
 
-Discription
----
+## Discription  
 這是一個酒類資訊公開平台，提供給網友回報各地所販賣的酒種、價錢、內容物、評價等資訊，讓酒類愛好者可以查詢參考、也可以分享彼此的心得。
-Function
----
+
+## Function  
+
 #### 產品展示部分
   * 依不同種類排序商品
   * 搜尋商品
@@ -20,8 +20,7 @@ Function
   * 一般會員登入後可以回報販售資訊、新增評價
   * 管理員登入後可以新增酒款資訊、刪除酒款
 
-各支程式用途
----
+## 各支程式用途
 - board.php：依據酒種分類，可點擊進入到不同的頁面（viewBoard.php）。
 - viewBoard.php：在不同酒種下細分類型並陳列產品，一次預設陳列25個產品。
 - product.php：呈現產品的詳細資訊。
