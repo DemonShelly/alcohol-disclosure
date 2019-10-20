@@ -5,10 +5,6 @@ Demo
 https://shellywu.000webhostapp.com/alcohol_open/board.php
 
 
-Discription
----
-這是一個酒類資訊公開平台，提供給網友回報各地所販賣的酒種、價錢、內容物、評價等資訊，讓酒類愛好者可以查詢參考、也可以分享彼此的心得。
-
 Function
 ---
 #### 產品展示部分
