@@ -10,8 +10,8 @@ https://shellywu.000webhostapp.com/alcohol_open/board.php
 ## Function  
 
 #### 產品展示部分
-  * 依不同種類排序商品
-  * 搜尋商品
+  * 依不同種類排序產品
+  * 搜尋產品
   * 查看產品詳細資訊
   * 查看各地酒專販售資訊
   * 查看評價
